@@ -21,7 +21,7 @@ The `Bubble Sort Example` is a simple Java application that demonstrates the bub
 ### Running the Application
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/bubble-sort-example.git
+   git clone https://github.com/HChristopherNaoyuki/bubble-sort-console-demo.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
